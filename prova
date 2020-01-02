@@ -1,0 +1,7 @@
+##Text de prova##
+from numpy import *
+from matplotlib.pyplot import *
+%matplotlib inline
+
+for i in range(10):
+  print (i)
